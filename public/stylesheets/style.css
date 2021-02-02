@@ -1,5 +1,16 @@
+h1 {
+    color: beige;
+}
+
+p {
+    color: beige;
+}
+
+a {
+    color: wheat;
+}
+
 body {
-    background-image: url("/images/background.jpg");
- 
+    background-image: url("/images/background.jpg"); 
 }
 
